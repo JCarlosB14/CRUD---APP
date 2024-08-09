@@ -1,0 +1,5 @@
+CRUD con LocalStorage
+
+Esta es mi primera Crud App Este proyecto es una aplicación web simple que implementa funcionalidades CRUD (Crear, Leer, Actualizar y Eliminar) utilizando localStorage para almacenar la información personal de una persona. La interfaz está diseñada con HTML y CSS, y la lógica de negocio está desarrollada en JavaScript. Esta aplicación permite a los usuarios gestionar su información personal de manera eficiente y atractiva.
+
+Características Crear: Los usuarios pueden agregar nueva información personal (nombre, edad, telefono y correo electrónico) a la aplicación. Leer: La aplicación muestra una lista de todas las personas guardadas en localStorage. Actualizar: Los usuarios pueden editar la información personal existente. Eliminar: Los usuarios pueden eliminar cualquier registro de información personal. Tecnologías Utilizadas HTML: Para la estructura de la página. CSS: Para el diseño y la presentación visual. JavaScript: Para la lógica de la aplicación y la interacción con localStorage.
